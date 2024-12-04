@@ -26,3 +26,4 @@ then type py_app_tx.py
 open another terminal and type 
 source env/bin/activate
 
+
